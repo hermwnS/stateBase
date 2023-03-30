@@ -1,0 +1,15 @@
+C:\Users\Wawan\statebase\statebase\bin\Debug\net6.0\statebase.exe
+C:\Users\Wawan\statebase\statebase\bin\Debug\net6.0\statebase.deps.json
+C:\Users\Wawan\statebase\statebase\bin\Debug\net6.0\statebase.runtimeconfig.json
+C:\Users\Wawan\statebase\statebase\bin\Debug\net6.0\statebase.dll
+C:\Users\Wawan\statebase\statebase\bin\Debug\net6.0\statebase.pdb
+C:\Users\Wawan\statebase\statebase\obj\Debug\net6.0\statebase.csproj.AssemblyReference.cache
+C:\Users\Wawan\statebase\statebase\obj\Debug\net6.0\statebase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wawan\statebase\statebase\obj\Debug\net6.0\statebase.AssemblyInfoInputs.cache
+C:\Users\Wawan\statebase\statebase\obj\Debug\net6.0\statebase.AssemblyInfo.cs
+C:\Users\Wawan\statebase\statebase\obj\Debug\net6.0\statebase.csproj.CoreCompileInputs.cache
+C:\Users\Wawan\statebase\statebase\obj\Debug\net6.0\statebase.dll
+C:\Users\Wawan\statebase\statebase\obj\Debug\net6.0\refint\statebase.dll
+C:\Users\Wawan\statebase\statebase\obj\Debug\net6.0\statebase.pdb
+C:\Users\Wawan\statebase\statebase\obj\Debug\net6.0\statebase.genruntimeconfig.cache
+C:\Users\Wawan\statebase\statebase\obj\Debug\net6.0\ref\statebase.dll
